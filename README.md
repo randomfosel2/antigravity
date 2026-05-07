@@ -2,6 +2,8 @@
 
 안녕하세요! 데이터 분석 포트폴리오 저장소입니다.
 
+🔗 **Tableau Public Profile**: [https://public.tableau.com/app/profile/minsuk.yoon](https://public.tableau.com/app/profile/minsuk.yoon)
+
 ## Projects
 
 ### 1. [Instagram Influencer Analysis](./project_01_instagram_influencer/)
