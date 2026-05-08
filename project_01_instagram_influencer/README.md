@@ -12,4 +12,4 @@
 - 영향력이 높은 인플루언서들의 공통적 특징 도출
 
 ## 대시보드
-- [Tableau Public 대시보드 보러가기](https://public.tableau.com/app/profile/minsuk.yoon)
+- [Tableau Public 대시보드 보러가기](https://public.tableau.com/app/profile/minsuk.yoon/viz/1_17781243648640/TOP10)
